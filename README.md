@@ -31,10 +31,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sachinrokade&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sachinrokade's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sachinrokade&theme=dark&hide_border=true&cache_seconds=86400" alt="sachinrokade's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinrokade&theme=github_dark&radius=10" alt="sachinrokade's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sachinrokade&theme=dark&radius=10" alt="sachinrokade's Activity Graph" />
 </p>
 
 
@@ -59,7 +59,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrokade&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrokade&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
