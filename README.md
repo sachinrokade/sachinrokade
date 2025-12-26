@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sachin%20Rokade&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Analyst&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=do%20not%20pray%20for%20easy%20lives%20pray%20to%20be%20stronger%20men" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Do%20not%20pray%20for%20easy%20lives%20pray%20to%20be%20stronger%20men" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on: Turning coffee ☕ into clean code (clean enough to ship).<br><br>👯 I’m looking to collaborate on: Projects that survive production, especially on Fridays.<br><br>🤝 I’m looking for help with: Bugs that vanish the moment someone else inspects them.<br><br>🌱 I’m currently learning: Writing code that future-me will actually appreciate.<br><br>💬 Ask me about: Java, Spring Boot, Docker, Kafka, or why it worked yesterday.<br><br>⚡ Fun fact: My debugging speed increases when someone is watching 👀💻
@@ -31,7 +31,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinrokade&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="sachinrokade's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=sachinrokade&theme=github_dark&hide_border=true&cache_seconds=86400" alt="sachinrokade's GitHub Streak" width="49%" />
 </p>
 <p align="center">
